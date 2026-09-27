@@ -19,4 +19,4 @@ Aplikasi Android berbasis kuis yang dirancang untuk membantu pengguna mempelajar
 - GitHub
  
 ## Repository
-https://github.com/JonathanChristianWong01/PAM_IFB5A_JonathanChristianWong''
+https://github.com/JonathanChristianWong01/PAM_IFB5A_JonathanChristianWong
